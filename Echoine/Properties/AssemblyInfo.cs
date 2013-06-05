@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Echoine")]
-[assembly: AssemblyDescription("Web app that echo all HTTP response to response body and log file, useful for testing purposes.")]
+[assembly: AssemblyDescription("Web app that echoes all HTTP requests to response body and log file, useful for testing purposes.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Mariuzzo")]
 [assembly: AssemblyProduct("Echoine")]
