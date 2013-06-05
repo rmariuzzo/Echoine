@@ -1,7 +1,7 @@
 Echoine Web App
 ===============
 
-*Echoine* is a web app that echoes all HTTP requests to response body and log files (via log4net), useful for testing purposes.
+*Echoine* is a web app that echoes all HTTP requests to response body and log files (via [log4net](https://github.com/apache/log4net‎)), useful for testing purposes.
 
 Features
 --------
@@ -13,4 +13,4 @@ Features
 Want to contribute?
 -------------------
 
-You are invited to do so: (start helping Echoine)[https://github.com/rmariuzzo/Echoine/fork]! It could be as great as your ideas are.
+You are invited to do so: [start helping Echoine](https://github.com/rmariuzzo/Echoine/fork)! It could be as great as your ideas are.
